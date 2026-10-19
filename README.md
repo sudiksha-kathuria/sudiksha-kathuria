@@ -2,8 +2,6 @@
   <img src="assets/banner.svg" alt="Hi, I'm Sudiksha Kathuria" width="100%">
 </div>
 
-Computer Science Engineering undergraduate at Vellore Institute of Technology, Vellore. I Build
-
 Looking for **SDE and ML/DS internships for Summer 2027**.
 
 ## What I'm working on
