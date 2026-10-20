@@ -27,52 +27,25 @@ I'm a Computer Science Engineering undergraduate at Vellore Institute of Technol
 ## Tech stack
 
 **Languages**<br>
-<img src="https://img.shields.io/badge/Python-3b5b92?style=flat&logo=python&logoColor=white" height="48" alt="Python">
-<img src="https://img.shields.io/badge/R-3b5b92?style=flat&logo=r&logoColor=white" height="48" alt="R">
-<img src="https://img.shields.io/badge/Java-3b5b92?style=flat&logo=openjdk&logoColor=white" height="48" alt="Java"><br>
-<img src="https://img.shields.io/badge/JavaScript-3b5b92?style=flat&logo=javascript&logoColor=white" height="48" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-3b5b92?style=flat&logo=typescript&logoColor=white" height="48" alt="TypeScript">
+<img src="assets/tech-languages.svg" alt="Python, R, Java, JavaScript, TypeScript">
 
 **ML and Data Science**<br>
-<img src="https://img.shields.io/badge/pandas-5b4b8a?style=flat&logo=pandas&logoColor=white" height="48" alt="pandas">
-<img src="https://img.shields.io/badge/NumPy-5b4b8a?style=flat&logo=numpy&logoColor=white" height="48" alt="NumPy">
-<img src="https://img.shields.io/badge/scikit--learn-5b4b8a?style=flat&logo=scikitlearn&logoColor=white" height="48" alt="scikit-learn"><br>
-<img src="https://img.shields.io/badge/PyTorch-5b4b8a?style=flat&logo=pytorch&logoColor=white" height="48" alt="PyTorch">
-<img src="https://img.shields.io/badge/TensorFlow-5b4b8a?style=flat&logo=tensorflow&logoColor=white" height="48" alt="TensorFlow">
+<img src="assets/tech-ml.svg" alt="pandas, NumPy, scikit-learn, PyTorch, TensorFlow">
 
 **AI**<br>
-<img src="https://img.shields.io/badge/NLP-6a4b8a?style=flat" height="48" alt="NLP">
-<img src="https://img.shields.io/badge/Computer%20Vision-6a4b8a?style=flat" height="48" alt="Computer Vision"><br>
-<img src="https://img.shields.io/badge/RAG-6a4b8a?style=flat" height="48" alt="RAG">
-<img src="https://img.shields.io/badge/LangGraph-6a4b8a?style=flat&logo=langchain&logoColor=white" height="48" alt="LangGraph">
+<img src="assets/tech-ai.svg" alt="NLP, Computer Vision, RAG, LangGraph">
 
 **Analytics and Visualization**<br>
-<img src="https://img.shields.io/badge/Matplotlib-8a5b7a?style=flat" height="48" alt="Matplotlib">
-<img src="https://img.shields.io/badge/Seaborn-8a5b7a?style=flat" height="48" alt="Seaborn">
-<img src="https://img.shields.io/badge/Tableau-8a5b7a?style=flat&logo=tableau&logoColor=white" height="48" alt="Tableau"><br>
-<img src="https://img.shields.io/badge/Power%20BI-8a5b7a?style=flat" height="48" alt="Power BI">
-<img src="https://img.shields.io/badge/Excel-8a5b7a?style=flat" height="48" alt="Excel">
+<img src="assets/tech-analytics.svg" alt="Matplotlib, Seaborn, Tableau, Power BI, Excel">
 
 **Web and Backend**<br>
-<img src="https://img.shields.io/badge/React-2f6f73?style=flat&logo=react&logoColor=white" height="48" alt="React">
-<img src="https://img.shields.io/badge/Next.js-2f6f73?style=flat&logo=nextdotjs&logoColor=white" height="48" alt="Next.js">
-<img src="https://img.shields.io/badge/Flask-2f6f73?style=flat&logo=flask&logoColor=white" height="48" alt="Flask"><br>
-<img src="https://img.shields.io/badge/FastAPI-2f6f73?style=flat&logo=fastapi&logoColor=white" height="48" alt="FastAPI">
-<img src="https://img.shields.io/badge/REST%20APIs-2f6f73?style=flat" height="48" alt="REST APIs">
+<img src="assets/tech-web.svg" alt="React, Next.js, Flask, FastAPI, REST APIs">
 
 **Databases**<br>
-<img src="https://img.shields.io/badge/SQL-4a5568?style=flat" height="48" alt="SQL">
-<img src="https://img.shields.io/badge/PostgreSQL-4a5568?style=flat&logo=postgresql&logoColor=white" height="48" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MySQL-4a5568?style=flat&logo=mysql&logoColor=white" height="48" alt="MySQL"><br>
-<img src="https://img.shields.io/badge/MongoDB-4a5568?style=flat&logo=mongodb&logoColor=white" height="48" alt="MongoDB">
-<img src="https://img.shields.io/badge/SQLite-4a5568?style=flat&logo=sqlite&logoColor=white" height="48" alt="SQLite">
+<img src="assets/tech-databases.svg" alt="SQL, PostgreSQL, MySQL, MongoDB, SQLite">
 
 **Tools**<br>
-<img src="https://img.shields.io/badge/Jupyter-3f6b4f?style=flat&logo=jupyter&logoColor=white" height="48" alt="Jupyter">
-<img src="https://img.shields.io/badge/Docker-3f6b4f?style=flat&logo=docker&logoColor=white" height="48" alt="Docker">
-<img src="https://img.shields.io/badge/GitHub-3f6b4f?style=flat&logo=github&logoColor=white" height="48" alt="GitHub"><br>
-<img src="https://img.shields.io/badge/AWS-3f6b4f?style=flat" height="48" alt="AWS">
-<img src="https://img.shields.io/badge/Supabase-3f6b4f?style=flat&logo=supabase&logoColor=white" height="48" alt="Supabase">
+<img src="assets/tech-tools.svg" alt="Jupyter, Docker, GitHub, AWS, Supabase">
 
 ## Experience
 
