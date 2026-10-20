@@ -27,31 +27,56 @@ I'm a Computer Science Engineering undergraduate at Vellore Institute of Technol
 ## Tech stack
 
 **Languages**<br>
-<img src="https://img.shields.io/badge/Python-3b5b92?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-3b5b92?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-3b5b92?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/SQL-3b5b92?style=for-the-badge" alt="SQL">
+<img src="https://img.shields.io/badge/Python-3b5b92?style=flat&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/SQL-3b5b92?style=flat" alt="SQL">
+<img src="https://img.shields.io/badge/R-3b5b92?style=flat&logo=r&logoColor=white" alt="R">
+<img src="https://img.shields.io/badge/Java-3b5b92?style=flat&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/JavaScript-3b5b92?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/TypeScript-3b5b92?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
 
-**ML and Data**<br>
-<img src="https://img.shields.io/badge/pandas-5b4b8a?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
-<img src="https://img.shields.io/badge/NumPy-5b4b8a?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Matplotlib-5b4b8a?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib">
-<img src="https://img.shields.io/badge/Seaborn-5b4b8a?style=for-the-badge" alt="Seaborn">
-<img src="https://img.shields.io/badge/LLMs-5b4b8a?style=for-the-badge" alt="LLMs">
-<img src="https://img.shields.io/badge/RAG-5b4b8a?style=for-the-badge" alt="RAG">
-<img src="https://img.shields.io/badge/EasyOCR-5b4b8a?style=for-the-badge" alt="EasyOCR">
+**ML and Data Science**<br>
+<img src="https://img.shields.io/badge/pandas-5b4b8a?style=flat&logo=pandas&logoColor=white" alt="pandas">
+<img src="https://img.shields.io/badge/NumPy-5b4b8a?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/scikit--learn-5b4b8a?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+<img src="https://img.shields.io/badge/PyTorch-5b4b8a?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+<img src="https://img.shields.io/badge/TensorFlow-5b4b8a?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
+<img src="https://img.shields.io/badge/NLP-5b4b8a?style=flat" alt="NLP">
+<img src="https://img.shields.io/badge/Computer%20Vision-5b4b8a?style=flat" alt="Computer Vision">
+<img src="https://img.shields.io/badge/LLMs-5b4b8a?style=flat" alt="LLMs">
+<img src="https://img.shields.io/badge/RAG-5b4b8a?style=flat" alt="RAG">
+<img src="https://img.shields.io/badge/LangGraph-5b4b8a?style=flat&logo=langchain&logoColor=white" alt="LangGraph">
+<img src="https://img.shields.io/badge/EasyOCR-5b4b8a?style=flat" alt="EasyOCR">
 
-**Web**<br>
-<img src="https://img.shields.io/badge/React-2f6f73?style=for-the-badge&logo=react&logoColor=white" alt="React">
-<img src="https://img.shields.io/badge/Vite-2f6f73?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-<img src="https://img.shields.io/badge/Next.js-2f6f73?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Flask-2f6f73?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-<img src="https://img.shields.io/badge/REST%20APIs-2f6f73?style=for-the-badge" alt="REST APIs">
+**Analytics and Visualization**<br>
+<img src="https://img.shields.io/badge/Matplotlib-8a5b7a?style=flat" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Seaborn-8a5b7a?style=flat" alt="Seaborn">
+<img src="https://img.shields.io/badge/Tableau-8a5b7a?style=flat&logo=tableau&logoColor=white" alt="Tableau">
+<img src="https://img.shields.io/badge/Power%20BI-8a5b7a?style=flat" alt="Power BI">
+<img src="https://img.shields.io/badge/Excel-8a5b7a?style=flat" alt="Excel">
+<img src="https://img.shields.io/badge/Google%20Sheets-8a5b7a?style=flat&logo=googlesheets&logoColor=white" alt="Google Sheets">
+
+**Web and Backend**<br>
+<img src="https://img.shields.io/badge/React-2f6f73?style=flat&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/Next.js-2f6f73?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Vite-2f6f73?style=flat&logo=vite&logoColor=white" alt="Vite">
+<img src="https://img.shields.io/badge/Flask-2f6f73?style=flat&logo=flask&logoColor=white" alt="Flask">
+<img src="https://img.shields.io/badge/FastAPI-2f6f73?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/REST%20APIs-2f6f73?style=flat" alt="REST APIs">
 
 **Databases**<br>
-<img src="https://img.shields.io/badge/PostgreSQL-4a5568?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/SQLite-4a5568?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-<img src="https://img.shields.io/badge/Prisma-4a5568?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+<img src="https://img.shields.io/badge/PostgreSQL-4a5568?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MySQL-4a5568?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/MongoDB-4a5568?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/SQLite-4a5568?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
+<img src="https://img.shields.io/badge/Prisma-4a5568?style=flat&logo=prisma&logoColor=white" alt="Prisma">
+<img src="https://img.shields.io/badge/Supabase-4a5568?style=flat&logo=supabase&logoColor=white" alt="Supabase">
+
+**Tools**<br>
+<img src="https://img.shields.io/badge/Jupyter-3f6b4f?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
+<img src="https://img.shields.io/badge/Docker-3f6b4f?style=flat&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Git-3f6b4f?style=flat&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-3f6b4f?style=flat&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/AWS-3f6b4f?style=flat" alt="AWS">
 
 ## Experience
 
