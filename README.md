@@ -4,6 +4,10 @@
 
 Looking for **SDE and ML/DS internships for Summer 2027**.
 
+## About me
+
+I'm a Computer Science Engineering undergraduate at Vellore Institute of Technology, Vellore. I love building things, from small experiments to full products, and I'm happiest when I'm playing around with data. There's something fascinating about taking messy numbers and text and finding the patterns hiding inside them, and then turning that into something people can actually use.
+
 ## What I'm working on
 
 - **NLP and LLM reliability:** retrieval-augmented generation, answer verification, and reducing hallucinations in language models
