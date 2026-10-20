@@ -27,25 +27,25 @@ I'm a Computer Science Engineering undergraduate at Vellore Institute of Technol
 ## Tech stack
 
 **Languages**<br>
-<img src="assets/tech-languages.svg?v=2" alt="Python, R, Java, JavaScript, TypeScript">
+<img src="assets/tech-languages.svg?v=3" alt="Python, R, Java, JavaScript, TypeScript">
 
 **ML and Data Science**<br>
-<img src="assets/tech-ml.svg?v=2" alt="pandas, NumPy, scikit-learn, PyTorch, TensorFlow">
+<img src="assets/tech-ml.svg?v=3" alt="pandas, NumPy, scikit-learn, PyTorch, TensorFlow">
 
 **AI**<br>
-<img src="assets/tech-ai.svg?v=2" alt="NLP, Computer Vision, RAG, LangGraph">
+<img src="assets/tech-ai.svg?v=3" alt="NLP, Computer Vision, RAG, LangGraph">
 
 **Analytics and Visualization**<br>
-<img src="assets/tech-analytics.svg?v=2" alt="Matplotlib, Seaborn, Tableau, Power BI, Excel">
+<img src="assets/tech-analytics.svg?v=3" alt="Matplotlib, Seaborn, Tableau, Power BI, Excel">
 
 **Web and Backend**<br>
-<img src="assets/tech-web.svg?v=2" alt="React, Next.js, Flask, FastAPI, REST APIs">
+<img src="assets/tech-web.svg?v=3" alt="React, Next.js, Flask, FastAPI, REST APIs">
 
 **Databases**<br>
-<img src="assets/tech-databases.svg?v=2" alt="SQL, PostgreSQL, MySQL, MongoDB, SQLite">
+<img src="assets/tech-databases.svg?v=3" alt="SQL, PostgreSQL, MySQL, MongoDB, SQLite">
 
 **Tools**<br>
-<img src="assets/tech-tools.svg?v=2" alt="Jupyter, Docker, GitHub, AWS, Supabase">
+<img src="assets/tech-tools.svg?v=3" alt="Jupyter, Docker, GitHub, AWS, Supabase">
 
 ## Experience
 
