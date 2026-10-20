@@ -27,54 +27,54 @@ I'm a Computer Science Engineering undergraduate at Vellore Institute of Technol
 ## Tech stack
 
 **Languages**<br>
-<img src="https://img.shields.io/badge/Python-3b5b92?style=flat&logo=python&logoColor=white" height="28" alt="Python">
-<img src="https://img.shields.io/badge/SQL-3b5b92?style=flat" height="28" alt="SQL">
-<img src="https://img.shields.io/badge/R-3b5b92?style=flat&logo=r&logoColor=white" height="28" alt="R">
-<img src="https://img.shields.io/badge/Java-3b5b92?style=flat&logo=openjdk&logoColor=white" height="28" alt="Java">
-<img src="https://img.shields.io/badge/JavaScript-3b5b92?style=flat&logo=javascript&logoColor=white" height="28" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-3b5b92?style=flat&logo=typescript&logoColor=white" height="28" alt="TypeScript">
+<img src="https://img.shields.io/badge/Python-3b5b92?style=flat&logo=python&logoColor=white" height="34" alt="Python">
+<img src="https://img.shields.io/badge/SQL-3b5b92?style=flat" height="34" alt="SQL">
+<img src="https://img.shields.io/badge/R-3b5b92?style=flat&logo=r&logoColor=white" height="34" alt="R">
+<img src="https://img.shields.io/badge/Java-3b5b92?style=flat&logo=openjdk&logoColor=white" height="34" alt="Java">
+<img src="https://img.shields.io/badge/JavaScript-3b5b92?style=flat&logo=javascript&logoColor=white" height="34" alt="JavaScript">
+<img src="https://img.shields.io/badge/TypeScript-3b5b92?style=flat&logo=typescript&logoColor=white" height="34" alt="TypeScript">
 
 **ML and Data Science**<br>
-<img src="https://img.shields.io/badge/pandas-5b4b8a?style=flat&logo=pandas&logoColor=white" height="28" alt="pandas">
-<img src="https://img.shields.io/badge/NumPy-5b4b8a?style=flat&logo=numpy&logoColor=white" height="28" alt="NumPy">
-<img src="https://img.shields.io/badge/scikit--learn-5b4b8a?style=flat&logo=scikitlearn&logoColor=white" height="28" alt="scikit-learn">
-<img src="https://img.shields.io/badge/PyTorch-5b4b8a?style=flat&logo=pytorch&logoColor=white" height="28" alt="PyTorch">
-<img src="https://img.shields.io/badge/TensorFlow-5b4b8a?style=flat&logo=tensorflow&logoColor=white" height="28" alt="TensorFlow">
+<img src="https://img.shields.io/badge/pandas-5b4b8a?style=flat&logo=pandas&logoColor=white" height="34" alt="pandas">
+<img src="https://img.shields.io/badge/NumPy-5b4b8a?style=flat&logo=numpy&logoColor=white" height="34" alt="NumPy">
+<img src="https://img.shields.io/badge/scikit--learn-5b4b8a?style=flat&logo=scikitlearn&logoColor=white" height="34" alt="scikit-learn">
+<img src="https://img.shields.io/badge/PyTorch-5b4b8a?style=flat&logo=pytorch&logoColor=white" height="34" alt="PyTorch">
+<img src="https://img.shields.io/badge/TensorFlow-5b4b8a?style=flat&logo=tensorflow&logoColor=white" height="34" alt="TensorFlow">
 
 **AI**<br>
-<img src="https://img.shields.io/badge/NLP-6a4b8a?style=flat" height="28" alt="NLP">
-<img src="https://img.shields.io/badge/Computer%20Vision-6a4b8a?style=flat" height="28" alt="Computer Vision">
-<img src="https://img.shields.io/badge/RAG-6a4b8a?style=flat" height="28" alt="RAG">
-<img src="https://img.shields.io/badge/LangGraph-6a4b8a?style=flat&logo=langchain&logoColor=white" height="28" alt="LangGraph">
+<img src="https://img.shields.io/badge/NLP-6a4b8a?style=flat" height="34" alt="NLP">
+<img src="https://img.shields.io/badge/Computer%20Vision-6a4b8a?style=flat" height="34" alt="Computer Vision">
+<img src="https://img.shields.io/badge/RAG-6a4b8a?style=flat" height="34" alt="RAG">
+<img src="https://img.shields.io/badge/LangGraph-6a4b8a?style=flat&logo=langchain&logoColor=white" height="34" alt="LangGraph">
 
 **Analytics and Visualization**<br>
-<img src="https://img.shields.io/badge/Matplotlib-8a5b7a?style=flat" height="28" alt="Matplotlib">
-<img src="https://img.shields.io/badge/Seaborn-8a5b7a?style=flat" height="28" alt="Seaborn">
-<img src="https://img.shields.io/badge/Tableau-8a5b7a?style=flat&logo=tableau&logoColor=white" height="28" alt="Tableau">
-<img src="https://img.shields.io/badge/Power%20BI-8a5b7a?style=flat" height="28" alt="Power BI">
-<img src="https://img.shields.io/badge/Excel-8a5b7a?style=flat" height="28" alt="Excel">
+<img src="https://img.shields.io/badge/Matplotlib-8a5b7a?style=flat" height="34" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Seaborn-8a5b7a?style=flat" height="34" alt="Seaborn">
+<img src="https://img.shields.io/badge/Tableau-8a5b7a?style=flat&logo=tableau&logoColor=white" height="34" alt="Tableau">
+<img src="https://img.shields.io/badge/Power%20BI-8a5b7a?style=flat" height="34" alt="Power BI">
+<img src="https://img.shields.io/badge/Excel-8a5b7a?style=flat" height="34" alt="Excel">
 
 **Web and Backend**<br>
-<img src="https://img.shields.io/badge/React-2f6f73?style=flat&logo=react&logoColor=white" height="28" alt="React">
-<img src="https://img.shields.io/badge/Next.js-2f6f73?style=flat&logo=nextdotjs&logoColor=white" height="28" alt="Next.js">
-<img src="https://img.shields.io/badge/Flask-2f6f73?style=flat&logo=flask&logoColor=white" height="28" alt="Flask">
-<img src="https://img.shields.io/badge/FastAPI-2f6f73?style=flat&logo=fastapi&logoColor=white" height="28" alt="FastAPI">
-<img src="https://img.shields.io/badge/REST%20APIs-2f6f73?style=flat" height="28" alt="REST APIs">
+<img src="https://img.shields.io/badge/React-2f6f73?style=flat&logo=react&logoColor=white" height="34" alt="React">
+<img src="https://img.shields.io/badge/Next.js-2f6f73?style=flat&logo=nextdotjs&logoColor=white" height="34" alt="Next.js">
+<img src="https://img.shields.io/badge/Flask-2f6f73?style=flat&logo=flask&logoColor=white" height="34" alt="Flask">
+<img src="https://img.shields.io/badge/FastAPI-2f6f73?style=flat&logo=fastapi&logoColor=white" height="34" alt="FastAPI">
+<img src="https://img.shields.io/badge/REST%20APIs-2f6f73?style=flat" height="34" alt="REST APIs">
 
 **Databases**<br>
-<img src="https://img.shields.io/badge/PostgreSQL-4a5568?style=flat&logo=postgresql&logoColor=white" height="28" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MySQL-4a5568?style=flat&logo=mysql&logoColor=white" height="28" alt="MySQL">
-<img src="https://img.shields.io/badge/MongoDB-4a5568?style=flat&logo=mongodb&logoColor=white" height="28" alt="MongoDB">
-<img src="https://img.shields.io/badge/SQLite-4a5568?style=flat&logo=sqlite&logoColor=white" height="28" alt="SQLite">
-<img src="https://img.shields.io/badge/Prisma-4a5568?style=flat&logo=prisma&logoColor=white" height="28" alt="Prisma">
-<img src="https://img.shields.io/badge/Supabase-4a5568?style=flat&logo=supabase&logoColor=white" height="28" alt="Supabase">
+<img src="https://img.shields.io/badge/PostgreSQL-4a5568?style=flat&logo=postgresql&logoColor=white" height="34" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MySQL-4a5568?style=flat&logo=mysql&logoColor=white" height="34" alt="MySQL">
+<img src="https://img.shields.io/badge/MongoDB-4a5568?style=flat&logo=mongodb&logoColor=white" height="34" alt="MongoDB">
+<img src="https://img.shields.io/badge/SQLite-4a5568?style=flat&logo=sqlite&logoColor=white" height="34" alt="SQLite">
+<img src="https://img.shields.io/badge/Prisma-4a5568?style=flat&logo=prisma&logoColor=white" height="34" alt="Prisma">
 
 **Tools**<br>
-<img src="https://img.shields.io/badge/Jupyter-3f6b4f?style=flat&logo=jupyter&logoColor=white" height="28" alt="Jupyter">
-<img src="https://img.shields.io/badge/Docker-3f6b4f?style=flat&logo=docker&logoColor=white" height="28" alt="Docker">
-<img src="https://img.shields.io/badge/Git-3f6b4f?style=flat&logo=git&logoColor=white" height="28" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-3f6b4f?style=flat&logo=github&logoColor=white" height="28" alt="GitHub">
-<img src="https://img.shields.io/badge/AWS-3f6b4f?style=flat" height="28" alt="AWS">
+<img src="https://img.shields.io/badge/Jupyter-3f6b4f?style=flat&logo=jupyter&logoColor=white" height="34" alt="Jupyter">
+<img src="https://img.shields.io/badge/Docker-3f6b4f?style=flat&logo=docker&logoColor=white" height="34" alt="Docker">
+<img src="https://img.shields.io/badge/Git-3f6b4f?style=flat&logo=git&logoColor=white" height="34" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-3f6b4f?style=flat&logo=github&logoColor=white" height="34" alt="GitHub">
+<img src="https://img.shields.io/badge/AWS-3f6b4f?style=flat" height="34" alt="AWS">
+<img src="https://img.shields.io/badge/Supabase-3f6b4f?style=flat&logo=supabase&logoColor=white" height="34" alt="Supabase">
 
 ## Experience
 
