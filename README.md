@@ -20,7 +20,6 @@ I'm a Computer Science Engineering undergraduate at Vellore Institute of Technol
 |---|---|---|
 | [NoHallucination](https://github.com/sudiksha-kathuria/NoHallucination) | Verifies LLM answers against source documents to catch hallucinated claims | Python, NLP, RAG |
 | [FraudNet](https://github.com/sudiksha-kathuria/FraudNet) | Multi-agent LLM platform that analyzes suspected fraud, gives explainable verdicts, and drafts NCRP complaints | React, Flask, Groq (Llama 3.3 70B), EasyOCR, SQLite |
-| [HackerHouseRAG](https://github.com/sudiksha-kathuria/HackerHouseRAG) | RAG system built at Hacker House Goa | Python, RAG |
 | [Explore: ACM-VIT OCS 2026](https://github.com/sudiksha-kathuria/enrollments-website-26) | ACM-VIT OCS 2026 enrollments website | Next.js, React, TypeScript, Tailwind CSS, Prisma, CockroachDB, Better Auth |
 | [ArticleInsights](https://github.com/sudiksha-kathuria/ArticleInsights) | Analysis of editorial content: author productivity, keywords, article length, and sentiment | pandas, NumPy, Matplotlib, Seaborn |
 
