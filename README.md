@@ -22,6 +22,7 @@ I'm a Computer Science Engineering undergraduate at Vellore Institute of Technol
 | [FraudNet](https://github.com/sudiksha-kathuria/FraudNet) | Multi-agent LLM platform that analyzes suspected fraud, gives explainable verdicts, and drafts NCRP complaints | React, Flask, Groq (Llama 3.3 70B), EasyOCR, SQLite |
 | [Explore: ACM-VIT OCS 2026](https://github.com/sudiksha-kathuria/enrollments-website-26) | ACM-VIT OCS 2026 enrollments website | Next.js, React, TypeScript, Tailwind CSS, Prisma, CockroachDB, Better Auth |
 | [ArticleInsights](https://github.com/sudiksha-kathuria/ArticleInsights) | Analysis of editorial content: author productivity, keywords, article length, and sentiment | pandas, NumPy, Matplotlib, Seaborn |
+| [EduPulse](https://github.com/sudiksha-kathuria/edupulse-datasets) | Early-warning system that flags students at risk of falling behind using attendance, grades, and engagement, with analysis notebooks, an inference API, and a risk dashboard | Python, scikit-learn, XGBoost, FastAPI, Streamlit |
 
 ## Tech stack
 
