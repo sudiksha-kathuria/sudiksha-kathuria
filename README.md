@@ -8,20 +8,14 @@ Looking for **SDE and ML/DS internships for Summer 2027**.
 
 I'm a Computer Science Engineering undergraduate at Vellore Institute of Technology, Vellore. I love building things, from small experiments to full products, and I'm happiest when I'm playing around with data. There's something fascinating about taking messy numbers and text and finding the patterns hiding inside them, and then turning that into something people can actually use.
 
-## What I'm working on
-
-- **NLP and LLM reliability:** retrieval-augmented generation, answer verification, and reducing hallucinations in language models
-- **Computer vision:** building and training CNN-based models for image tasks
-- **Applied ML:** multi-agent LLM pipelines for real-world problems like fraud detection
-
 ## Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
 | [NoHallucination](https://github.com/sudiksha-kathuria/NoHallucination) | Verifies LLM answers against source documents to catch hallucinated claims | Python, NLP, RAG |
-| [FraudNet](https://github.com/sudiksha-kathuria/FraudNet) | Multi-agent LLM platform that analyzes suspected fraud, gives explainable verdicts, and drafts NCRP complaints | React, Flask, Groq (Llama 3.3 70B), EasyOCR, SQLite |
-| [Explore: ACM-VIT OCS 2026](https://github.com/sudiksha-kathuria/enrollments-website-26) | ACM-VIT OCS 2026 enrollments website | Next.js, React, TypeScript, Tailwind CSS, Prisma, CockroachDB, Better Auth |
+| [VirtualFittingRoom](https://github.com/sudiksha-kathuria/virtual-fitting-room) | Real-time virtual try-on that fits clothing and accessories on a live camera feed, using custom-trained CNNs and computer vision | Python, PyTorch, MediaPipe, ONNX, React, FastAPI |
 | [ArticleInsights](https://github.com/sudiksha-kathuria/ArticleInsights) | Analysis of editorial content: author productivity, keywords, article length, and sentiment | pandas, NumPy, Matplotlib, Seaborn |
+| [Explore: ACM-VIT OCS 2026](https://github.com/sudiksha-kathuria/enrollments-website-26) | ACM-VIT OCS 2026 enrollments website | Next.js, React, TypeScript, Tailwind CSS, Prisma, CockroachDB, Better Auth |
 | [EduPulse](https://github.com/sudiksha-kathuria/edupulse-datasets) | Early-warning system that flags students at risk of falling behind using attendance, grades, and engagement, with analysis notebooks, an inference API, and a risk dashboard | Python, scikit-learn, XGBoost, FastAPI, Streamlit |
 
 ## Tech stack
@@ -50,11 +44,11 @@ I'm a Computer Science Engineering undergraduate at Vellore Institute of Technol
 ## Experience
 
 - **Data Analyst Intern**, Times Network (Times Now), Noida
-- **Senior Core Member**, ACM-VIT
+- **Secretary**, ACM-VIT
 
 ## Education
 
-B.Tech Computer Science Engineering, VIT Vellore. CGPA 9.16/10
+B.Tech in Computer Science Engineering, VIT Vellore. CGPA 9.16/10
 
 ## Connect
 
